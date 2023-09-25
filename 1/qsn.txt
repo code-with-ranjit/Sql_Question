@@ -1,3 +1,7 @@
 ### Write your Question Here
 Question 1 : Write a query to get the current date.
-Selct *
+<<<<<<< HEAD
+Ans : SELECT CURRENT_DATE;
+=======
+Selct * from  master;
+>>>>>>> e60012c455f79e7bc709e2cef27b1cfc441f8f7e
