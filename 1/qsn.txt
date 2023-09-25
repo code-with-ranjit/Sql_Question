@@ -1,5 +1,12 @@
 ### Write your Question Here
 Question 1 : Write a query to get the current date.
-
 Ans : SELECT CURRENT_DATE;
 
+Question 2 : Write a query to retrieve the first four characters of  EmpLname from the EmployeeInfo table.
+
+Question 3 : Write a query to fetch only the place name(string before brackets) from the Address column of EmployeeInfo table.
+
+Question 4 : Write a query to retrieve the EmpFname and EmpLname in a single column as “FullName”. The first name and the last name 
+must be separated with space.
+
+Question 5 : Write a query to calculate the even and odd records from a table.
